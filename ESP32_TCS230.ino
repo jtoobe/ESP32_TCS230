@@ -1,5 +1,6 @@
 // Módulo Sensor De Color Tcs230 Tcs3200
 
+// Ojo! El sensor trabaja con 3.3v
 
 // Pines conectados al ESP32
 #define S0 26
